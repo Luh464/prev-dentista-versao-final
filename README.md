@@ -1,4 +1,4 @@
-# Sistema de Gestão Odontológica (Prev Dentistas) - Versão Final do Sistema
+# Sistema de Gestão Odontológica (Prev Dentistas) - Versão 3.0
 
 Este repositório contém o histórico de evolução, engenharia de software e a refatoração completa do sistema de gerenciamento para clínicas odontológicas. O projeto foi reestruturado para sanar falhas críticas de acoplamento do sistema legado, além de implementar um módulo financeiro e operacional flexível para atender a cenários reais de negócio.
 
