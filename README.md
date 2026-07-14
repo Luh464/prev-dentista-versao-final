@@ -88,3 +88,10 @@ Para dar suporte às novas regras de rateio e flexibilização de parâmetros, a
    * Execute o script de automações contido em `database/corrigir_triggers.sql`.
 4. Ajuste as credenciais de acesso local dentro de `config/database.php`.
 5. Abra o navegador e acesse: `http://localhost/nome-do-seu-repositorio/public/index.php`.
+## ---
+
+🚀 **Versão Final (Repositório Atualizado):** Sistema com as regras mais recentes de 
+flexibilização de taxa de cartão e atendimento sem indicação.
+
+🔗 [Acesse aqui o Repositório da Versão Final](https://github.com/Luh464/prev-dentista-versao-4-atualizado)
+
